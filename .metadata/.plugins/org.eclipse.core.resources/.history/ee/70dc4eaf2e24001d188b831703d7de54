@@ -1,0 +1,14 @@
+package calpac;
+
+public class addnum {
+	int num1;
+	int num2;
+	int  add;
+public int res()
+{
+	add=num1+num2;
+	return add;
+	
+}
+
+}

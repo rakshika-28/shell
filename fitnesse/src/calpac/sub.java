@@ -1,0 +1,14 @@
+package calpac;
+
+import fit.ColumnFixture;
+public class sub {
+	int num1;
+	int num2;
+	int  sub;
+public int res()
+{
+	sub=num1-num2;
+	return sub;
+	
+}
+}
